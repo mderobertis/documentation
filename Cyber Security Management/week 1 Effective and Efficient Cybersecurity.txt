@@ -1,0 +1,12 @@
+Week 1: Effective and Efficient Cybersecurity
+Cybersecurity fundamentals
+Why do we need Cybersecurity
+The threat landscape
+Communication
+Policies and standards
+
+Learning Outcomes
+
+This module introduces the concept of Cybersecurity within an organisation and how to manage Cybersecurity in an effective and efficient manner. The current threat landscape and challenges of protecting organisational assets will be covered. You will explore the skills and capabilities required to establish an effective and efficient Cybersecurity practice.
+
+As part of the weekly homework you will investigate a real-world incident and put yourself in the shoes of the attacker and explore the motivations behind Cyberattacks. You’ll also write a very challenging email informing the executives of a discovered breach.
