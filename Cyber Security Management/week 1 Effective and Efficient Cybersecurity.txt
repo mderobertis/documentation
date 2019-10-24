@@ -10,3 +10,61 @@ Learning Outcomes
 This module introduces the concept of Cybersecurity within an organisation and how to manage Cybersecurity in an effective and efficient manner. The current threat landscape and challenges of protecting organisational assets will be covered. You will explore the skills and capabilities required to establish an effective and efficient Cybersecurity practice.
 
 As part of the weekly homework you will investigate a real-world incident and put yourself in the shoes of the attacker and explore the motivations behind Cyberattacks. You’ll also write a very challenging email informing the executives of a discovered breach.
+
+
+ISACA Certified Info Sec Manager CISM; governance, risk management
+ISC2 Sec Manag ISSMP ; 5 domains, similar to CISM
+GIAC Cyb Sec Leadership GSLC ; broad overview of tech and weaknesses
+
+Cybersecurity Manager – good tech understanding; creative and disciplined; provides advice; good communicator; “threat scenario” – best weapon for explaining why to do something or not to do something
+
+Enterprise Landscape – increasingly connected, execs time poor for tech explanations, boards want results, staff susceptible to attacks, increasing tech depth and diversity, vulnerable sw; at stake is brand and reputation, loss of revenue and customers, increased scrutiny, fines/penalties, personal team cost, cybersecurity manager professional cost
+
+Threat Landscape – international exposure, anonymity, automation & weaponization, commoditization of actors (devs, hackers, mules, botnes and zombies, organisers)
+
+Attackers - internal (eg disgruntled employees, fraud, accidental), external (eg funded criminals, bored teens, activists, state sponsored)
+
+Breaches -  Ebay (May 2014), Target Corp (Dec 2013), Adobe (Aug 2013), Kmart and David Jones (Oct 2015)
+
+Terms
+Threat – occurrence or potential occurrence
+Vulnerability – weakness in the system/asset allowing something unauthorized to happen
+Exploit – method to make use of a weakness to gain access to an asset
+Risk Assessment – assess, determine, manage; = Likelihood x Impact
+Residual Risk – after mitigating controls made (careful how you explain this to Exec)
+
+CIA Objectives
+Confidentiality (prevent unauthorized disclosure); 
+Integrity (prevent unauthorized or improper changes); 
+Availability (prevent disruption to service quality)
+
+Communication in Key
+Trust is Paramount
+
+Threat Scenarios
+Actor (eg the bad guy, external, malicious)
+Negative Impact (eg loss of service, loss of data)
+Asset (eg confidential information, privileged functionality)
+Eg External bad guy gained unauthorized access to the list of corporate credit card numbers
+Vulnerability – staff are storing corporate credit card on pastebin
+
+Policies & Standards
+Policies are for the people (what is acceptable behavior, eg Acceptable Use Policy, Info Sec Policy, Info Classification Policy)
+Standards are for Systems (subject specific describing how systems are to be configured, non-vendor specific, eg NW Security Standard, Encryption Standard
+
+Baselines and Plans
+Baseline – tech and vendor specific, tech config to maintain security, eg windows 10 secure build configuration
+Plans – what to do when an issue occurs, responsibilities and roles/contacts, eg Incident Response Plan, Business Continuity Plan
+
+Cyber Security Practice (TEAM)
+Governance
+Management
+Warriors (tech operations, sec testing, monitoring, incident response) ; reactive/tactical
+Critics (review and compliance, project review, auditing, PCI, ISO, COBIT)
+Visionaries (strategy and architecture, NW controls, IT controls, Security Program; proactive/strategic
+
+DISCUSSION QUs
+Are threats to modern organisations increasing or decreasing?
+What are the three components in a threat scenario?
+When is it ok to use FUD?
+Which of the CIA is most important?
